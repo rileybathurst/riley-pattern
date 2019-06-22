@@ -1,0 +1,25 @@
+{
+  "neutral-colors" : [
+    {
+      "name": "white",
+      "hex": "#fefefe"
+    },
+    {
+      "name": "light-gray",
+      "hex": "#e6e6e6"
+    },
+    {
+      "name": "medium-gray",
+      "hex": "#cacaca"
+    },
+    {
+      "name": "dark-gray",
+      "hex": "#8a8a8a"
+    },
+    {
+      "name": "black",
+      "hex": "#0a0a0a"
+    }
+  ],
+  "empty": false
+}
