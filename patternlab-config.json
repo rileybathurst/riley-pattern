@@ -63,7 +63,6 @@
       },
       "js": "source/js",
       "images": "source/images",
-      "fonts": "source/fonts",
       "css": "source/css"
     },
     "public": {
@@ -74,7 +73,6 @@
       "styleguide": "public/styleguide/",
       "js": "public/js",
       "images": "public/images",
-      "fonts": "public/fonts",
       "css": "public/css"
     }
   },
